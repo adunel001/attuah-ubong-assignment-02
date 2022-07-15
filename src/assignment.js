@@ -42,7 +42,7 @@ for (let i = 0; i < arrayOfNumbers.length; i++);
   }
   return countEven;
 }
-(countEvenNumbers);
+(countEvenNumbers)
 /**
  * Challenge - 3
  * 
